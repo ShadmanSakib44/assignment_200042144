@@ -1,4 +1,4 @@
-package StampCoupling;
+package assignment2.StampCoupling;
 
 public class StampCouplingC {
     private String name = "SHADMAN";

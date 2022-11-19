@@ -1,4 +1,4 @@
-package StampCoupling;
+package assignment2.StampCoupling;
 
 public class StampCouplingB {
     public void callB(int[] array, StampCouplingC c ) {

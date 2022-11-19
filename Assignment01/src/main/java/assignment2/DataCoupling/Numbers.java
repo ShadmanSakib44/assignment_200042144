@@ -1,4 +1,4 @@
-package DataCoupling;
+package assignment2.DataCoupling;
 
 public class Numbers {
     int numberA = 1;

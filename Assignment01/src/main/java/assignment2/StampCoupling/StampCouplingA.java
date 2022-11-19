@@ -1,4 +1,4 @@
-package StampCoupling;
+package assignment2.StampCoupling;
 
 public class StampCouplingA {
     private int[] array = {1, 2, 3, 4, 5};

@@ -1,4 +1,4 @@
-package ContentCoupling;
+package assignment2.ContentCoupling;
 
 public class Speed {
 

@@ -1,4 +1,4 @@
-package DataCoupling;
+package assignment2.DataCoupling;
 
 public class Printer {
     public void print(int numberA, int numberB, int numberC, boolean allNumbersSet) {

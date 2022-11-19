@@ -1,4 +1,4 @@
-package ControlCoupling;
+package assignment2.ControlCoupling;
 
 public class AirCraftStatus {
 
