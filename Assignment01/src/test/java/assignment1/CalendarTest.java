@@ -32,7 +32,8 @@ public class CalendarTest {
         assertEquals(date.toString(), "01/03/2000");
     }
     @Test
-    public void TestMonth30Days() throws DateException {
+    public void TestMonth30Days() throws DateException
+    {
         Calendar date = new Calendar("30/04/2013");
         date.addDay();
         assertEquals(date.toString(), "01/05/2013");
