@@ -1,4 +1,4 @@
-package Independence;
+package assignment2.Independence;
 
 public class Speed {
     public int Speed(int time,int distance){
