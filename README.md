@@ -46,7 +46,7 @@ Content Coupling is observed when one module/class accesses and modifies the dat
 
 A module is said to be control coupled when the flow of execution is decided by a variable of another class. This means which lines of code should be executed is decided by some parameter or a variable. This is more commonly found where there are control structures like if-else conditions.
 
-##Stamp Coupling
+## Stamp Coupling
 
 Two classes are said to be stamp coupled if one class sends a collection or object as parameter and only a few data members of it is used in the second class. This type of coupling is desirable when the number of parameters that must be passed exceeds three. However, this needs to be further reduced to data coupling whenever possible.
 
